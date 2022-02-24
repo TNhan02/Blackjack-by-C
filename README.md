@@ -1,4 +1,4 @@
-My name is Nhan. This is a basic blackjack game code by C language.
+This is a basic blackjack game code by C language.
 
 The cards have the same points as their values (independent of suit). A (ace) has a value of 11, on the other hand, J (Jack), Q (Queen), K (King) have values of 10.
 
